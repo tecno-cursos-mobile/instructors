@@ -5,7 +5,7 @@
       "cpf": "123.456.789-10",
       "name": "Maurício Alberto Siqueira",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor01.jpg",
-      "birthDate": "12/01/1970",
+      "birthDate": 64119600000,
       "description": ""
     },
     {
@@ -13,7 +13,7 @@
       "cpf": "123.456.789-11",
       "name": "Pedro Rocha Barros",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor02.jpg",
-      "birthDate": "12/01/1971",
+      "birthDate": 64119600000,
       "description": ""
     },
     {
@@ -21,7 +21,7 @@
       "cpf": "123.456.789-12",
       "name": "Stevie Feliciano",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor03.jpg",
-      "birthDate": "12/01/1972",
+      "birthDate": 64119600000,
       "description": ""
     },
     {
@@ -29,7 +29,7 @@
       "cpf": "123.456.789-13",
       "name": "Samuel Cavalcanti Pinto",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor04.jpg",
-      "birthDate": "12/01/1973",
+      "birthDate": 64119600000,
       "description": ""
     },
     {
@@ -37,7 +37,7 @@
       "cpf": "123.456.789-14",
       "name": "Otávio Gomes Pinto",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor05.jpg",
-      "birthDate": "12/01/1974",
+      "birthDate": 64119600000,
       "description": ""
     },
     {
@@ -45,7 +45,7 @@
       "cpf": "123.456.789-15",
       "name": "Daniel Correia Silva",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor06.jpg",
-      "birthDate": "12/01/1975",
+      "birthDate": 64119600000,
       "description": ""
     }
   ]
