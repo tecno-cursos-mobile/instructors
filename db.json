@@ -6,6 +6,7 @@
       "name": "Maurício Alberto Siqueira",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor01.jpg",
       "birthDate": 64119600000,
+      "expertise": "Segurança do trabalho",
       "description": ""
     },
     {
@@ -14,6 +15,7 @@
       "name": "Pedro Rocha Barros",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor02.jpg",
       "birthDate": 64119600000,
+      "expertise": "Segurança do trabalho",
       "description": ""
     },
     {
@@ -22,6 +24,7 @@
       "name": "Stevie Feliciano",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor03.jpg",
       "birthDate": 64119600000,
+      "expertise": "Segurança do trabalho",
       "description": ""
     },
     {
@@ -30,6 +33,7 @@
       "name": "Samuel Cavalcanti Pinto",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor04.jpg",
       "birthDate": 64119600000,
+      "expertise": "Segurança do trabalho",
       "description": ""
     },
     {
@@ -38,6 +42,7 @@
       "name": "Otávio Gomes Pinto",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor05.jpg",
       "birthDate": 64119600000,
+      "expertise": "Segurança do trabalho",
       "description": ""
     },
     {
@@ -46,6 +51,7 @@
       "name": "Daniel Correia Silva",
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/instructors-photos/master/instructor06.jpg",
       "birthDate": 64119600000,
+      "expertise": "Segurança do trabalho",
       "description": ""
     }
   ]
